@@ -1,24 +1,5 @@
 # Zeta-Disease-Prediction-sklearn-
-A short data science coding challenge for Pluralsight interview.
-
-# Pluralsight Data Science Take Home Challenge
-
-A short data science project used to assess a candidate's critical-thinking, Python 3 coding, data cleaning, and applied analysis skills.
-
-
-## TIME
-*  A candidate with 3 years of hands-on experience in data science should be able to complete this challenge in ~2 hours.
-*  There is NO time limit. Candidates may spend as much time as they want on the challenge before submitting it.
-
-
-## SUBMISSION REQUIREMENTS
-A solution submission must be...
-*  Written in Python 3.
-*  Shared via GitLab, GitHub, or Binder.
-*  Include a fully-executed Jupyter notebook.  For security reasons, we will not be running any submitted code.
-*  Include predictions for all 20 cases in the `_zeta-disease_prediction-data_` dataset.
-*  Complete when it is submitted.  We will only score the first submission.
-*  The candidate's own, original work.  Evidence of plagiarism will be grounds for rejecting the submission.
+A short data science coding exercise using scikit-learn.
 
 
 ## THE CHALLENGE: Zeta Disease Prediction
